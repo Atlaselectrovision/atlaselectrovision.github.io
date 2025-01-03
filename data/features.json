@@ -1,0 +1,17 @@
+[
+    {
+      "title": "Reliable Services",
+      "description": "Over 30 years of expertise in electrical maintenance and testing services.",
+      "icon": "fa-solid fa-truck-fast"
+    },
+    {
+      "title": "Comprehensive Solutions",
+      "description": "From transformer testing to energy audits and solar PV projects, we cover it all.",
+      "icon": "fa-solid fa-list"
+    },
+    {
+      "title": "Qualified Team",
+      "description": "Highly experienced engineers equipped with cutting-edge tools and technology.",
+      "icon": "fa-regular fa-star"
+    }
+]
