@@ -1,7 +1,6 @@
 ---
-layout: single
 title: "About us"
-permalink: /about/
+layout: page
 ---
 Atlas Electro Vision Pvt. Ltd. (AEVPL) is a trusted leader in Electrical Maintenance & Testing Services, proudly serving clients across India since 1994. As an ISO 9001:2008 certified company, we prioritize quality, safety, and customer satisfaction.
 
