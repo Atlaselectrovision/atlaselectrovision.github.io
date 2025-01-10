@@ -17,7 +17,7 @@ Indore – 452010 (M.P.)
 [atharvsaurabhsharma@gmail.com](mailto:atharvsaurabhsharma@gmail.com)
 
 ### Website
-[www.atlaselectrovision.github.io](http://www.atlaselectrovision.github.io)
+[www.atlaselectrovision.github.io](https://atlaselectrovision.github.io)
 
 ### CIN
 U31200MP1987PTC003962
